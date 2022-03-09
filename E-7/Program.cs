@@ -17,17 +17,12 @@ namespace E_7
             Supervisor supervisorSalario = new Supervisor(2000);
             supervisorSalario.Bonificacao(SupervisorSalario);
             System.Console.WriteLine($"Salário do Supervisor: {supervisorSalario.Bonificacao(SupervisorSalario)} ");
-            
+
             
             double VendedorSalario = 1500;
             Vendedor vendedorSalario = new Vendedor(1500);
             vendedorSalario.Bonificacao(VendedorSalario);
             System.Console.WriteLine($"Salário do Vendedor: {vendedorSalario.Bonificacao(VendedorSalario)}");
-
-
-
-
-
 
         }
     }
