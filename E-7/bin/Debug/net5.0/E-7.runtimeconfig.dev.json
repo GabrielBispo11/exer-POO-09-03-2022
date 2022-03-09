@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/bispo/.dotnet/store/|arch|/|tfm|",
+      "/home/bispo/.nuget/packages"
+    ]
+  }
+}
