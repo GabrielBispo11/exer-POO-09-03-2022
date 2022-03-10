@@ -1,0 +1,16 @@
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/bin/Debug/net5.0/E-1
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/bin/Debug/net5.0/E-1.deps.json
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/bin/Debug/net5.0/E-1.runtimeconfig.json
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/bin/Debug/net5.0/E-1.runtimeconfig.dev.json
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/bin/Debug/net5.0/E-1.dll
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/bin/Debug/net5.0/ref/E-1.dll
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/bin/Debug/net5.0/E-1.pdb
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.csproj.AssemblyReference.cache
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.AssemblyInfoInputs.cache
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.AssemblyInfo.cs
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.csproj.CoreCompileInputs.cache
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.dll
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/ref/E-1.dll
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.pdb
+/home/bispo/Documentos/exer-POO-09-03-2022/E-1/obj/Debug/net5.0/E-1.genruntimeconfig.cache

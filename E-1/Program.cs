@@ -1,4 +1,5 @@
 ﻿using System;
+using E_1.Models;
 
 namespace E_1
 {
@@ -6,7 +7,14 @@ namespace E_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Veiculo veiculo = new Veiculo();
+
+            veiculo.Ligar();
+            veiculo.Acelerar();
+            veiculo.Frear();
+            veiculo.Abastecer(65);
+            veiculo.Desligar();
+
         }
     }
 }

@@ -9,26 +9,22 @@ namespace E_4
     {
         static void Main(string[] args)
         {
+            Pessoa pessoas = new Pessoa();
+            List<Pessoa> P = new List<Pessoa>();
             
-            List<Pessoa> pessoasGFT = new List<Pessoa>();
+            P.Add(new Pessoa("João", 15));
+            P.Add(new Pessoa("Leandro", 21));
+            P.Add(new Pessoa("Paulo", 17)); 
+            P.Add(new Pessoa("Jessica", 18));
 
-            pessoasGFT.Add("João");
-
-
-
-
-           //List<string>pessoas = new List<string>();
-
-          // pessoas.Add("João");
-            //pessoas.Add("Jessica");
-            //pessoas.Add("Clezio");
-
-            //foreach(string c in pessoas)
-            //{
-            //    System.Console.WriteLine("Pessoas:",c);
-            //}
+            System.Console.WriteLine($"Pessoa mais velha: {Velho(P).getNome()}");
 
 
+
+
+
+
+        
 
 
 
