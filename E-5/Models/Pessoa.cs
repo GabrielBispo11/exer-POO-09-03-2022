@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace E_4.Models
+namespace E_5.Models
 {
     public class Pessoa
     {
@@ -19,8 +19,19 @@ namespace E_4.Models
             this.Idade = Idade;
         }
         
-        // Excluir da lista pessoa maior de idade (olhar Fessor bruno (C#) - exe. similar; Apostila de C#)
-        // for (int i = 0; i < P.Count; i++)  .....
+        public void Excluir(List<Pessoa>pessoas)
+        {
+            for(int i = 0; i < pessoas.Count; i++)
+            {
+                if(pessoas[i].Idade < 18)
+                {
+                    pessoas.Remove(pessoas[i]);
+                }
+            } 
+        }
+
+
+
         // Encontrar a Jessica;
 
 

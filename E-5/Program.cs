@@ -1,10 +1,9 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using E_4.Models;
+using E_5.Models;
 
-namespace E_4
+namespace E_5
 {
     class Program
     {
@@ -27,6 +26,7 @@ namespace E_4
             System.Console.WriteLine("");
             System.Console.Write($"Já a pessoa mais velha presente no grupo: {pessoaMaisVelha.Nome} com ");   
             System.Console.WriteLine($"{pessoaMaisVelha.Idade} anos");
+            individuos.Excluir(pessoas);
         }
       
     } 

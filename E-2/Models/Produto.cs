@@ -39,10 +39,10 @@ namespace E_2.Models
         {
             return this.quantidade;
         }
-        public void setQuantidade()
-        {
-            this.quantidade = quantidade;
-        }
+        // public void setQuantidade()
+        // {
+            // this.quantidade = quantidade;
+        // }
 
 
 
