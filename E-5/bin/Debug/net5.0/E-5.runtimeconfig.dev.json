@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/bispo/.dotnet/store/|arch|/|tfm|",
-      "/home/bispo/.nuget/packages"
+      "C:\\Users\\GLAO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GLAO\\.nuget\\packages"
     ]
   }
 }

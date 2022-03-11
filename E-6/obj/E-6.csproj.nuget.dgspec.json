@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-4\\E-4.csproj": {}
+    "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-6\\E-6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-4\\E-4.csproj": {
+    "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-6\\E-6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-4\\E-4.csproj",
-        "projectName": "E-4",
-        "projectPath": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-4\\E-4.csproj",
+        "projectUniqueName": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-6\\E-6.csproj",
+        "projectName": "E-6",
+        "projectPath": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-6\\E-6.csproj",
         "packagesPath": "C:\\Users\\GLAO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-4\\obj\\",
+        "outputPath": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GLAO\\AppData\\Roaming\\NuGet\\NuGet.Config"

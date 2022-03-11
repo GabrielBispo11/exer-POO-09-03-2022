@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/bispo/Documentos/exer-POO-09-03-2022/E-5/E-5.csproj": {}
+    "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-5\\E-5.csproj": {}
   },
   "projects": {
-    "/home/bispo/Documentos/exer-POO-09-03-2022/E-5/E-5.csproj": {
+    "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-5\\E-5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bispo/Documentos/exer-POO-09-03-2022/E-5/E-5.csproj",
+        "projectUniqueName": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-5\\E-5.csproj",
         "projectName": "E-5",
-        "projectPath": "/home/bispo/Documentos/exer-POO-09-03-2022/E-5/E-5.csproj",
-        "packagesPath": "/home/bispo/.nuget/packages/",
-        "outputPath": "/home/bispo/Documentos/exer-POO-09-03-2022/E-5/obj/",
+        "projectPath": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-5\\E-5.csproj",
+        "packagesPath": "C:\\Users\\GLAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GLAO\\Videos\\exer-POO-09-03-2022\\E-5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/bispo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\GLAO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

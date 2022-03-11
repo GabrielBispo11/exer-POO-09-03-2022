@@ -23,10 +23,19 @@ namespace E_5
                 System.Console.WriteLine($"Os indivíduos presentes estão separados por Nome e Idade são: {p.Nome + " " + p.Idade}");
             }
 
+             individuos.Excluir(pessoas);
+             System.Console.WriteLine("----------------------------------------------------------------------");
+
             System.Console.WriteLine("");
-            System.Console.Write($"Já a pessoa mais velha presente no grupo: {pessoaMaisVelha.Nome} com ");   
-            System.Console.WriteLine($"{pessoaMaisVelha.Idade} anos");
-            individuos.Excluir(pessoas);
+            System.Console.WriteLine("Pessoas remanecentes após a exclusão (idade inferior a 18 anos): ");
+            System.Console.WriteLine("");
+            foreach(var item in pessoas)
+            {
+                System.Console.WriteLine($"Nome: {item.Nome}: | Idade: {item.Idade} ");
+            }
+
+
+
         }
       
     } 
