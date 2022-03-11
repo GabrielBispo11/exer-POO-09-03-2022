@@ -19,11 +19,8 @@ namespace E_5
 
             var pessoaMaisVelha =  pessoas.OrderByDescending(a=> a.Idade).ToList()[0];
             
-            foreach(Pessoa p in pessoas){
-                System.Console.WriteLine($"Os indivíduos presentes estão separados por Nome e Idade são: {p.Nome + " " + p.Idade}");
-            }
 
-        
+           System.Console.WriteLine(individuos.encontrar(pessoas));
         }
       
     } 

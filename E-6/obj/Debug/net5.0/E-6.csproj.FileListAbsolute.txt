@@ -1,0 +1,5 @@
+C:\Users\GLAO\Videos\exer-POO-09-03-2022\E-6\obj\Debug\net5.0\E-6.csproj.AssemblyReference.cache
+C:\Users\GLAO\Videos\exer-POO-09-03-2022\E-6\obj\Debug\net5.0\E-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLAO\Videos\exer-POO-09-03-2022\E-6\obj\Debug\net5.0\E-6.AssemblyInfoInputs.cache
+C:\Users\GLAO\Videos\exer-POO-09-03-2022\E-6\obj\Debug\net5.0\E-6.AssemblyInfo.cs
+C:\Users\GLAO\Videos\exer-POO-09-03-2022\E-6\obj\Debug\net5.0\E-6.csproj.CoreCompileInputs.cache

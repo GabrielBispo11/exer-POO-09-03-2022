@@ -34,7 +34,7 @@ namespace E_1.Models
         }
 
 
-        // Não consegui implementar o método desligar e nem validar o combustível, cor e ligar (sorry);
+        // Construi errado o teste, acabei apagando. Irei entregar dessa forma! mals.
 
 
 
