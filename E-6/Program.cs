@@ -19,8 +19,8 @@ namespace E_5
 
             var pessoaMaisVelha =  pessoas.OrderByDescending(a=> a.Idade).ToList()[0];
             
-
            System.Console.WriteLine(individuos.encontrar(pessoas));
+
         }
       
     } 

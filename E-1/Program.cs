@@ -18,3 +18,5 @@ namespace E_1
         }
     }
 }
+
+// Fiquei muito tempo vendo lista e coleções e errei no teste 1 acabei apagando. Irei entregar dessa forma! mals.
