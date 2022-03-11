@@ -1,6 +1,6 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
-using System.Linq;
 using E_4.Models;
 
 namespace E_4
@@ -9,28 +9,23 @@ namespace E_4
     {
         static void Main(string[] args)
         {
-            Pessoa pessoas = new Pessoa();
+            Pessoa individuos = new Pessoa();
             List<Pessoa> P = new List<Pessoa>();
             
+            System.Console.WriteLine("--------------------------------------------------------");
             P.Add(new Pessoa("João", 15));
             P.Add(new Pessoa("Leandro", 21));
             P.Add(new Pessoa("Paulo", 17)); 
             P.Add(new Pessoa("Jessica", 18));
+    
 
-            System.Console.WriteLine($"Pessoa mais velha: {Velho(P).getNome()}");
-
-
-
-
-
-
-        
-
-
-
-
-
+            System.Console.WriteLine("Os indivíduos presentes separados por Nome e Idade são:");
+            individuos.Exibir(P);  
+            System.Console.WriteLine("--------------------------------------------------------");
+            System.Console.WriteLine("Já a pessoa mais velha entre o grupo:");   
             
+            System.Console.WriteLine("--------------------------------------------------------");
+
         }
     }
 }

@@ -1,41 +1,40 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 
 namespace E_4.Models
 {
     public class Pessoa
     {
-        public string Nome;
-        public int Idade;
+        public string Nome {get; set; }
+        public int Idade {get; set; }
 
-        public string Velho;
-
-        public String getNome(string Nome)
-        {
-            return Nome;
-        }
-
-        public int getIdade()
-        {
-            return Idade;
-        }
-        public void setIdade(int Idade)
-        {
-            this.Idade = Idade;
-        }
-        public Pessoa()
-        {
+        public Pessoa(){
 
         }
-
         public Pessoa(string Nome, int Idade)
         {
             this.Nome = Nome;
             this.Idade = Idade;
         }
+        
+        public void Exibir(List<Pessoa>P){
+            var consulta = from consul in P
+                           orderby consul.Idade
+                           select new {consul.Nome, consul.Idade};
+                            
+        foreach (var item in consulta)
+        {
+            System.Console.WriteLine($"{item.Nome} {item.Idade}");
+        }
+
+        }
+        
+        // Criar o método para reconhecer a pessoa mais velha;
+        // Excluir da lista pessoa maior de idade (olhar Fessor bruno (C#) - exe. similar)
+        // for (int i = 0; i < P.Count; i++)  .....
+        // Encontrar a Jessica;
+
+
     }
 }
