@@ -33,42 +33,6 @@ namespace E_1.Models
             }
         }
 
-        public void Abastecer(int combustivel){
-            litrosCombustivel += combustivel;
-            if(litrosCombustivel>60){
-                int sobraCombustivel = litrosCombustivel - (60);
-                litrosCombustivel -= sobraCombustivel;
-            }
-        }
-
-        public void Frear(){
-            if(Velocidade == 0){
-                System.Console.WriteLine("O veículo encontra-se parado (0 km/h)");
-            }else{
-                Velocidade -= 20;
-                System.Console.WriteLine("A velocidade atual do veículo é de: " + Velocidade);
-            }
-        }
-
-        public void Pintar(string Cor)
-        {
-            this.Cor = Cor;
-        }
-
-        public void Ligar()
-        {
-            if(!isLigado){
-                isLigado = true;
-                System.Console.WriteLine("Ligando o carro");
-            }else{
-                 System.Console.WriteLine("O carro encontra-se ligado");
-            }
-        }
-
-        public void Desligar()
-        {
-        
-        }
 
         // Não consegui implementar o método desligar e nem validar o combustível, cor e ligar (sorry);
 
